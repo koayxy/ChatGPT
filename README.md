@@ -18,7 +18,7 @@ This project is a simple clone of ChatGPT based on the CodingNepal ChatGPT tutor
 - It's free!
 
 **Run:**
-- Open http://localhost:8000 in browser
+- Open '''http://localhost:8000''' in browser
 - Enter prompts in the chat interface and submit
 - If API key works, the ChatGPT model will return responses based on the prompts.
 
