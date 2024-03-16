@@ -15,6 +15,7 @@ This project is a simple clone of ChatGPT based on the CodingNepal ChatGPT tutor
 
 2. API Key
 - Generate OpenAI API key https://platform.openai.com/api-keys for free!
+- Paste API key in index.html
 
 **Run:**
 - Open http://localhost:8000 in browser
