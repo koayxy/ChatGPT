@@ -14,8 +14,7 @@ This project is a simple clone of ChatGPT based on the CodingNepal ChatGPT tutor
 - Localhost 8000 will start running
 
 2. API Key
-- Generate OpenAI API key from https://platform.openai.com/api-keys
-- It's free!
+- Generate OpenAI API key https://platform.openai.com/api-keys for free!
 
 **Run:**
 - Open http://localhost:8000 in browser
