@@ -5,7 +5,7 @@ const themeButton = document.querySelector("#theme-btn");
 const deleteButton = document.querySelector("#delete-btn");
 
 let userText = null;
-const API_KEY = "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"; // Generate from OpenAI 
+const API_KEY = "paste your api key here"; // Generate from OpenAI 
 
 const loadDataFromLocalstorage = () => {
     // Load saved chats and theme from local storage and apply/add on the page
